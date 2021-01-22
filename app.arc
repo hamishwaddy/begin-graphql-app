@@ -4,7 +4,6 @@ begin-graphql-app
 @http
 post /graphql
 get /playground
-get /foo
 get /about
 
 @tables
