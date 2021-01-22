@@ -5,6 +5,7 @@ begin-graphql-app
 post /graphql
 get /playground
 get /about
+get /contact-us
 
 @tables
 data
