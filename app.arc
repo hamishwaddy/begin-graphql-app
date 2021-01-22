@@ -1,5 +1,5 @@
 @app
-begin-app
+begin-graphql-app
 
 @http
 post /graphql
